@@ -23,4 +23,4 @@ Run main using
 ```
 java -cp target/HuffmanProject-1.0-SNAPSHOT.jar org.hua.decoder.App dsa.txt ascii.txt
 ```
-the dsa.txt is the file that containce the Huffman code representation and the ascii.txt is an example for the output file you can put whatever you want
+the dsa.txt is the file that containce the Huffman code representation and the ascii.txt is an example for the output file which will compressed (you can put whatever you want)
